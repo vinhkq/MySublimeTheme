@@ -33,7 +33,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#249729</string>
+				<string>#1B691E</string>
 			</dict>
 		</dict>
 		<dict>
@@ -99,9 +99,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>bold</string>
+				<string>bold italic</string>
 				<key>foreground</key>
-				<string>#EB40AD</string>
+				<string>#2824E0</string>
 			</dict>
 		</dict>
 		<dict>
@@ -220,10 +220,8 @@
 			<string>support</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>bold</string>
 				<key>foreground</key>
-				<string>#5899D1</string>
+				<string>#000000</string>
 			</dict>
 		</dict>
 		<dict>
@@ -234,7 +232,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#3333FF</string>
+				<string>#CD1DCD</string>
 			</dict>
 		</dict>
 		<dict>
@@ -256,7 +254,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#E82A37</string>
+				<string>#ED1826</string>
 			</dict>
 		</dict>
 		<dict>
@@ -279,8 +277,10 @@
 			<string>variable.other.php</string>
 			<key>settings</key>
 			<dict>
+				<key>fontStyle</key>
+				<string>none</string>
 				<key>foreground</key>
-				<string>#CB23D1</string>
+				<string>#CD1DCD</string>
 			</dict>
 		</dict>
 		<dict>
@@ -403,7 +403,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>bold</string>
+				<string>italic</string>
 			</dict>
 		</dict>
 	<dict>
