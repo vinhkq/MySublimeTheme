@@ -23,6 +23,8 @@
 				<string>#FFFAA9</string>
 				<key>selection</key>
 				<string>#FCF897</string>
+				<key>gutterForeground</key>
+				<string>#FF0000</string>
 			</dict>
 		</dict>
 		<dict>
